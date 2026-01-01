@@ -7,7 +7,7 @@ Turkish typing speed test application. Measure your typing speed with adjustable
 
 ---
 
-## ✨ Özellikler / Features
+## ✨Features
 
 - **Real-time Testing**: Adjustable durations between 1-3 minutes
 - **Detailed Statistics**: Words per minute, accuracy rate, error analysis
@@ -60,8 +60,8 @@ python main.py
 
 - **OS**: Windows 7/8/10/11, Linux, macOS
 - **Python** (for developers): 3.6+
-- **Bellek** / **Memory**: 50MB RAM
-- **Disk** / **Disk**: 10MB free space
+- **Memory**: 50MB RAM
+- **Disk**: 10MB free space
 
 ---
 
